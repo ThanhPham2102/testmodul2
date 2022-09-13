@@ -1,0 +1,122 @@
+*{
+    top:0px;
+    left: 0px;
+    box-sizing: border-box;
+}
+
+    body{
+        
+        background-image: url("https://img5.thuthuatphanmem.vn/uploads/2021/12/03/anh-itachi-4k_090847056.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 100%; 
+      }
+.search_all{
+    height: 100vh;
+    /* background: linear-gradient(to right,#4daf54,#3d8880); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url("https://tpc.googlesyndication.com/sadbundle/568627520847514123/Ta_m__ie__m.png"); */
+}
+
+
+  
+.search_box-last{
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    transition: 1s;
+    
+    /*  */
+   
+
+    
+
+    
+    
+
+}
+.search_box-last :hover{
+    background-color: rgb(75, 74, 74);
+    color:aliceblue;
+    cursor: pointer;
+    
+    
+    }
+.search{
+    /* position: absolute ; */
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    /* width:1000px */
+    /* align-items: center; */
+}
+.search_last{
+    /* position: absolute; */
+    display: flex;
+    
+   
+    /* padding-top:20px ; */
+    /* border-bottom: 1px solid rgb(83, 79, 79); */
+}
+
+.search_box{
+    width:700px;
+    
+    /* margin: auto;
+    
+    padding-top: 300px; */
+}
+.search_line{
+width: 100%;
+border-radius: 100px;
+border: none;
+font-size: 20px;
+padding:20px
+}   
+.search_btn{    
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    border-radius:50%;
+    border: none;
+    margin-left: 10px;
+    cursor: x;
+}
+.search_line{
+    height: 50px;
+
+}
+.search_last--img{
+    width:10%;
+    /* text-align: center; */
+
+
+}
+.search_last--text{
+    padding:15px;
+    width:80%;
+    
+    height: 40px;
+   
+    word-wrap: break-word;
+    color:rgb(34, 33, 33);
+    /* color:aliceblue */
+
+}
+.search_last--img1{
+    width: 65px;
+    height: 65px;
+    margin:3px;
+    /* padding-bottom: 1px; */
+    text-align: center;
+    
+}
+.title{
+    font-size: 20px;
+}
+.search_last--img{
+    padding:2px
+}
